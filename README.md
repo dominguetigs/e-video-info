@@ -6,6 +6,8 @@ E preciso ter instalado o node e o npm para rodar a aplicacao.
 
 ## Comando para rodar a aplicacao
 
+`npm install`
+
 `npm run electron`
 
 
