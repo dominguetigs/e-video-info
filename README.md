@@ -2,7 +2,7 @@
 
 ## Instructions for running the project
 
-You must have installed the **node** and **npm** to run the application.
+You must have installed the **node** and **npm** to run the application. And install locally the [lib ffmpeg](https://github.com/adaptlearning/adapt_authoring/wiki/Installing-FFmpeg)
 
 ## Command to run the application
 
