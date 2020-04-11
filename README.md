@@ -1,10 +1,10 @@
-# Pequeno teste de uma aplicacao desktop em electron para obter metadados de um determinado video utilizando ffmpeg e fluent-ffmpeg.
+# Small test of an electron desktop application to obtain metadata for a given video using ffmpeg and fluent-ffmpeg.
 
-## Instrucoes para rodar o projeto:
+## Instructions for running the project
 
-E preciso ter instalado o node e o npm para rodar a aplicacao.
+You must have installed the **node** and **npm** to run the application.
 
-## Comando para rodar a aplicacao
+## Command to run the application
 
 `npm install`
 
