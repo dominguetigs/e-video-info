@@ -7,7 +7,7 @@
     <img alt="Node.js version" src="https://img.shields.io/badge/node-v12.18.0-brightgreen">
   </a>
   <a href="https://www.npmjs.com/" target="_blank">
-    <img alt="NPM version" src="https://img.shields.io/badge/npm-v6.14.4-red%20">
+    <img alt="NPM version" src="https://img.shields.io/badge/npm-v6.14.4-CB3837">
   </a>
   <a href="https://www.linkedin.com/in/gustavodomingueti/" target="_blank">
     <img alt="Made by Gustavo Domingueti" src="https://img.shields.io/badge/made%20by-Gustavo%20Domingueti-0078D7">
